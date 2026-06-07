@@ -16,3 +16,12 @@ __MACOSX/
 **/__MACOSX/
 ._*
 **/._*
+
+.idea/
+**/.idea/
+.env
+**/.env
+__MACOSX/
+**/__MACOSX/
+._*
+**/._*
